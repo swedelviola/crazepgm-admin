@@ -46,7 +46,7 @@ session_start();
   <a href="changewei.php">Change weightage</a><br>
   <a href="checkwei.php">Current weightage</a><br>
   <a href="feedback.php">Feedback</a><br>
-  <a href="">Edit</a><br>
+  <a href="edit.php">Edit</a><br>
 </div>
 <br>
 <?php
